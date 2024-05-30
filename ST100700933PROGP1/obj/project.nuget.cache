@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "rp31s2DIT1Jli1/KuosN8HmUmxrUjnsiJTgIMN2/JDC2il1c3J0oe9Ra3PNtpqXbs0CSL3NXwlC5B9WuLygA2g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tyres\\source\\repos\\ST100700933PROGP1\\ST100700933PROGP1\\ST100700933PROGP2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tyres\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
+    "C:\\Users\\tyres\\.nuget\\packages\\moq\\4.20.70\\moq.4.20.70.nupkg.sha512",
+    "C:\\Users\\tyres\\.nuget\\packages\\system.diagnostics.eventlog\\6.0.0\\system.diagnostics.eventlog.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
